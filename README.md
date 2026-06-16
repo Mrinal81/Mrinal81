@@ -2,7 +2,7 @@
 
 # Mrinal&nbsp;Anand
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&duration=3600&pause=1400&color=6366F1&center=true&vCenter=true&width=560&lines=Real-time+financial+infrastructure.;Decided+before+it+settles.;Low-latency+by+design." alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&duration=3600&pause=1400&color=6366F1&center=true&vCenter=true&width=560&lines=Backend+%26+distributed+systems.;Real-time+%C2%B7+low-latency+%C2%B7+event-driven.;Code+that+holds+up+under+load." alt="" />
 
 <br/>
 
@@ -16,21 +16,11 @@
 
 ### About
 
-Engineer working on **real-time financial infrastructure** — systems that must return the right answer in milliseconds, every time, under load.
+Engineer focused on **real-time, low-latency systems** — the kind that must return the right answer in milliseconds, every time, under load.
 
-Right now I'm building **[VeritasIQ](https://github.com/Mrinal81/VeritasIQ)**: a multi-tenant platform that scores every transaction for fraud and AML risk and returns a verdict in **under 150&nbsp;ms**, combining deterministic rules, a live transaction graph, and an online ML model.
+I work across **distributed backends, event-driven architecture, and the full stack** — Go on the hot path, TypeScript on the front, Python for the data side.
 
 I care about **latency, correctness, and restraint** — software that stays quiet until it needs to act.
-
-<br/>
-
----
-
-### Currently building &nbsp;·&nbsp; VeritasIQ
-
-A real-time transaction-decisioning platform for banks, NBFCs, and payment aggregators — fraud, AML, and case management across every rail, on one canonical schema.
-
-<kbd>Go</kbd> &nbsp; <kbd>Next.js</kbd> &nbsp; <kbd>TypeScript</kbd> &nbsp; <kbd>Python</kbd> &nbsp; <kbd>PostgreSQL</kbd> &nbsp; <kbd>NATS&nbsp;JetStream</kbd> &nbsp; <kbd>Docker</kbd> &nbsp; <kbd>Kubernetes</kbd>
 
 <br/>
 
