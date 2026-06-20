@@ -84,13 +84,8 @@
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mrinal81&hide_border=true&area=true&bg_color=00000000&color=F59E0B&line=F97316&point=FBBF24&title_color=F59E0B&custom_title=Contribution%20Activity" alt="" />
 </div>
 
-### 🏆 Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mrinal81&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="" />
-</div>
 
----
 
 ## ✨ Highlights
 
