@@ -90,16 +90,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Mrinal81&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="" />
 </div>
 
-### 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mrinal81/Mrinal81/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mrinal81/Mrinal81/output/github-contribution-grid-snake.svg" />
-    <img width="98%" alt="snake eating my contribution graph" src="https://raw.githubusercontent.com/Mrinal81/Mrinal81/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
 ---
 
 ## ✨ Highlights
